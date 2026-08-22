@@ -1,0 +1,4 @@
+boto3>=1.28.0
+pyserial>=3.5
+paho-mqtt>=1.6.1
+requests>=2.31.0
