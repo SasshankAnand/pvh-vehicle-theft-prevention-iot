@@ -3,10 +3,10 @@
 An IoT-enabled automotive safety and security architecture deployed on the **ESP32 Dev Module / ESP32-CAM**. The system features a novel dual-mode operation: **Preventive Vehicle Heatstroke (PVH) Mode** for child occupant protection and **Anti-Theft Mode** for intrusion deterrence, visual proof collection, and GPS tracking via AWS Cloud.
 
 ## Authors & Affiliation
-- **V.R. Ganapathy Raja** (VIT Vellore)
-- **Sasshank Anand** VIT Vellore)
-- **Ramani Srinivasan** (VIT Vellore)
-- **Mrityunjay Tiwari** (VIT Vellore)
+- **V.R. Ganapathy Raja** (23BEC0374 VIT Vellore)
+- **Sasshank Anand** (23BEC0099 VIT Vellore)
+- **Ramani Srinivasan** (23BML0008 VIT Vellore)
+- **Mrityunjay Tiwari** (23BEC0409 VIT Vellore)
 - **Dr. Sujata R** (Faculty Advisor, School of Electronics Engineering, VIT Vellore)
 
 ## Dual-Mode Operation
