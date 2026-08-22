@@ -4,9 +4,9 @@ An IoT-enabled automotive safety and security architecture deployed on the **ESP
 
 ## Authors & Affiliation
 - **V.R. Ganapathy Raja** (VIT Vellore)
-- **Sasshank Anand** (23BEC0099, VIT Vellore)
+- **Sasshank Anand** VIT Vellore)
 - **Ramani Srinivasan** (VIT Vellore)
-- **Mrityunjay Tiwari** (School of Electronics Engineering, VIT Vellore)
+- **Mrityunjay Tiwari** (VIT Vellore)
 - **Dr. Sujata R** (Faculty Advisor, School of Electronics Engineering, VIT Vellore)
 
 ## Dual-Mode Operation
